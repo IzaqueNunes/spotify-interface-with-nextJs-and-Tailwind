@@ -3,7 +3,7 @@
 ## 
 
 ### Tela principal
-<img src="./src/app/assets/images/spotify.png" width="300px" height="600px">
+<img src="./src/app/assets/images/spotify.png">
 
 ### ℹ Sobre
 ##
