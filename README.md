@@ -2,7 +2,7 @@
 ### 👨‍💻 Telas
 ## 
 
-### Tela de carregamento
+### Tela principal
 <img src="./src/assets/images/spotify.png" width="300px" height="600px">
 
 ### ℹ Sobre
