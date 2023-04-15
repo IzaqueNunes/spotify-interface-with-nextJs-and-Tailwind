@@ -21,17 +21,17 @@ Projeto de criação de interface do Spotify, usando NextJs + TailwindCSS 👩�
 ### 👩‍💻 Como contribuir
 #### 1. Clone o repositório do projeto
 ```
-$ git clone https://github.com/IzaqueNunes/audio-app.git
+$ git clone https://github.com/IzaqueNunes/spotify-interface-with-nextJs-and-Tailwind.git
 ```
 #### 2. Acesse a pasta
 ```
-$ cd audio-app
+$ cd spotify-tailwind
 ```
 #### 3. Instale as dependencias
 ```
 $ npm install
 ```
-#### 4. Rode o app
+#### 4. Rode o projeto
 ```
-$ npx expo start
+$ npm run dev
 ```
